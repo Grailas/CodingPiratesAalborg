@@ -9,7 +9,7 @@ The core structure is as follows:
 
 **Guides**
 
-The Guides folder contains various teaching utilities, such as guides and tutorials. Both source files and compiled pdfs can be found here.
+The Guides folder contains various teaching utilities, such as guides and tutorials. Compiled pdfs can be found here, along with source files in the src-folder.
 
 **Assets**
 
