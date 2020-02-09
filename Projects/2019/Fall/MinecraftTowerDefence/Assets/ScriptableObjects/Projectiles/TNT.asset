@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d25ca13b7600e3d41979e81fb901b0e7, type: 3}
+  m_Name: TNT
+  m_EditorClassIdentifier: 
+  speed: 5
+  damage: 10
+  appearance: {fileID: -7559100641895599374, guid: 167548c08140ee542adba2d044fe656d,
+    type: 3}
