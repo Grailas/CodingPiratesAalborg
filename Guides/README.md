@@ -1,2 +1,2 @@
 # Guides
-[../Guides/Hjælpeguide.pdf](Hjælpeguide.pdf) - a Danish guide/booklet for learning C# and Unity
+[Hjælpeguide](Hjælpeguide.pdf) - a Danish guide/booklet for learning C# and Unity
